@@ -29,3 +29,10 @@ git clone https://github.com/Vanshagrawal16/task-manager-react.git
 cd task-manager-react
 npm install
 npm start
+
+
+
+## 👨‍💻 Author
+
+Made with ❤️love by **Vansh Agrawal**  
+[GitHub Profile](https://github.com/Vanshagrawal16)
